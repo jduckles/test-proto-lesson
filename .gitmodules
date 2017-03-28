@@ -1,0 +1,3 @@
+[submodule "jekyll-files"]
+	path = jekyll-files
+	url = git@github.com:rgaiacs/swc-proto-lesson.git
