@@ -2,6 +2,11 @@
 # Values for this lesson.
 #------------------------------------------------------------
 
+source: .
+destination: ./_site
+layouts_dir: ./jekyll-files/_layouts
+includes_dir: ./jekyll-files/_includes
+
 # Which carpentry is this ("swc", "dc", or "lc")?
 carpentry: "swc"
 
